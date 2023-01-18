@@ -1,0 +1,35 @@
+body{
+/* 	background-image:url("Img/dark_theme.png"); */
+	margin: 0px; 
+	margin-top:-18px;
+ }
+#TopBanner {
+	background-color:rgba(32,35,0,0.2);
+	color:white;
+	padding:10px;
+  }
+.Headdings {
+	border-collapse: collapse;
+	text-align:center;
+}
+
+a:link {
+	color:rgb(255, 255, 255);
+	background-color:transparent;
+	text-decoration:none;
+}
+a:visited {
+	color:rgb(255, 255, 255);
+	background-color:transparent;
+	text-decoration:none;
+}
+a:hover {
+	background-color: transparent;
+	color:red;
+	text-decoration:none;
+}
+a:active {
+	color:yellow;
+	background-color: transparent;
+	text-decoration:underline;
+}

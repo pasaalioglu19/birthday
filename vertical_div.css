@@ -1,0 +1,18 @@
+.navigation_bar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 90px;
+    background-color: transparent;
+  }
+  
+  .navigation_bar li a {
+    display: block;
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  .navigation_bar li a:hover{
+    background-color: rgb(47, 99, 104);
+    color: white;
+  }
